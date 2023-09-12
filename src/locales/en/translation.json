@@ -1,0 +1,9 @@
+{
+  "home": "Home",
+  "about": "About",
+  "home_heading":"Hello,this is home page",
+  "about_heading":"Hello, this is about us page",
+  "home_content":"This project is a simple React application that features dynamic language content updates. It consists of a navigation bar with links to Home and About pages and a language selection dropdown menu. When users select a different language from the dropdown menu, the content on the Home and About pages is dynamically updated to display in the selected language. This functionality is achieved by utilizing the i18next library for internationalization and React Router for routing between pages. The project structure includes language JSON files for each supported language, and the useTranslation hook from react-i18next is used to access and display translated content in the components. This project provides a basic example of how to implement multilingual support in a React application.",
+  "about_content":"This project is a simple React application that features dynamic language content updates. It consists of a navigation bar with links to Home and About pages and a language selection dropdown menu. When users select a different language from the dropdown menu, the content on the Home and About pages is dynamically updated to display in the selected language. This functionality is achieved by utilizing the i18next library for internationalization and React Router for routing between pages. The project structure includes language JSON files for each supported language, and the useTranslation hook from react-i18next is used to access and display translated content in the components. This project provides a basic example of how to implement multilingual support in a React application.",
+  "language": "Language"
+}

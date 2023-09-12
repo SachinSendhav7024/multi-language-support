@@ -1,0 +1,11 @@
+{
+  "home": "maison",
+  "about": "à propos",
+  "home_heading":"Bonjour, c'est la page d'accueil",
+  "about_heading":"Bonjour, c'est à propos de nous",
+  "home_content":"Ce projet est une application React simple qui propose des mises à jour dynamiques du contenu linguistique. Il se compose d'une barre de navigation avec des liens vers les pages Accueil et À propos et d'un menu déroulant de sélection de langue. Lorsque les utilisateurs sélectionnent une langue différente dans le menu déroulant, le contenu des pages Accueil et À propos est mis à jour de manière dynamique pour s'afficher dans la langue sélectionnée. Cette fonctionnalité est obtenue en utilisant la bibliothèque i18next pour l'internationalisation et React Router pour le routage entre les pages. La structure du projet comprend des fichiers JSON de langue pour chaque langue prise en charge, et le hook useTranslation de React-i18next est utilisé pour accéder et afficher le contenu traduit dans les composants. Ce projet fournit un exemple de base de la façon d'implémenter la prise en charge multilingue dans une application React.",
+  "about_content":"Ce projet est une application React simple qui propose des mises à jour dynamiques du contenu linguistique. Il se compose d'une barre de navigation avec des liens vers les pages Accueil et À propos et d'un menu déroulant de sélection de langue. Lorsque les utilisateurs sélectionnent une langue différente dans le menu déroulant, le contenu des pages Accueil et À propos est mis à jour de manière dynamique pour s'afficher dans la langue sélectionnée. Cette fonctionnalité est obtenue en utilisant la bibliothèque i18next pour l'internationalisation et React Router pour le routage entre les pages. La structure du projet comprend des fichiers JSON de langue pour chaque langue prise en charge, et le hook useTranslation de React-i18next est utilisé pour accéder et afficher le contenu traduit dans les composants. Ce projet fournit un exemple de base de la façon d'implémenter la prise en charge multilingue dans une application React.",
+  "language": "Langue"
+}
+
+  
