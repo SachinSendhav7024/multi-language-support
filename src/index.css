@@ -25,6 +25,7 @@ body {
 } 
 .logo{
   filter: drop-shadow(2px 3px 3px rgb(234, 176, 212));
+  margin-inline: 3rem;
 }
 .logo:hover{
   filter: drop-shadow(3px 3px 4px rgb(125, 69, 104));
@@ -50,6 +51,9 @@ body {
 @media (max-width: 768px) {
   .container {
     padding: 10px;
+  }
+  .logo{
+    margin: 0;
   }
   .nav-link {
     margin: 10px;

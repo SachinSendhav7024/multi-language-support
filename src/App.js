@@ -10,7 +10,7 @@ const App = () => {
     <>
       <div className="container-fluid main_page pb-4">
         <div className="navbar">
-          <img src={logo} alt="languagelogo" className="logo mx-5 p-4" />
+          <img src={logo} alt="languagelogo" className="logo p-4" />
           <Navbar />
           
         </div>
